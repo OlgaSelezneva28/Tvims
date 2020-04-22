@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\bin\Debug\Tvims1.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\bin\Debug\Tvims1.exe
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\bin\Debug\Tvims1.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.exe
+c:\users\acer\documents\visual studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Tvims1\Tvims1\obj\Debug\Tvims1.Form2.resources
